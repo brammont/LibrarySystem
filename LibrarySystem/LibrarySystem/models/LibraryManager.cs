@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 
 
-namespace LibrarySystem.models
+namespace LibrarySystem.Models
 {
     class LibraryManager
     {
