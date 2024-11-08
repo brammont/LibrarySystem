@@ -1,0 +1,4 @@
+8/11/2024 1:37:47 PM: TestIsAvailable_WhenBookIsAvailable_ReturnsTrue - Passed 
+8/11/2024 1:37:47 PM: TestIsAvailable_WhenBookIsNotAvailable_ReturnsFalse - Passed 
+8/11/2024 1:37:47 PM: TestBorrowBook_LimitNotExceeded_Success - Passed 
+8/11/2024 1:37:47 PM: TestBorrowBook_LimitExceeded_Fail - Passed 

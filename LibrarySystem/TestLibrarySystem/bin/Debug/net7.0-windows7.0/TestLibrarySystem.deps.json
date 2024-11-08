@@ -10,6 +10,7 @@
         "dependencies": {
           "LibrarySystem": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.11.0",
+          "Microsoft.TestPlatform": "17.11.1",
           "coverlet.collector": "3.1.0",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
@@ -55,6 +56,7 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.TestPlatform/17.11.1": {},
       "Microsoft.TestPlatform.ObjectModel/16.11.0": {
         "dependencies": {
           "NuGet.Frameworks": "5.0.0",
@@ -1147,6 +1149,13 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.TestPlatform/17.11.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-28KbZ9RkE0joKE3guEH3tQrbufU+2kOaO/yFZb2+gmydI2K/mvKbTN9DSlOE5do0VWhBCXaJT1X84NaOej2/NQ==",
+      "path": "microsoft.testplatform/17.11.1",
+      "hashPath": "microsoft.testplatform.17.11.1.nupkg.sha512"
     },
     "Microsoft.TestPlatform.ObjectModel/16.11.0": {
       "type": "package",

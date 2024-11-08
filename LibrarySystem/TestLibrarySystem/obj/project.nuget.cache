@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C9siuwXtEFY=",
+  "dgSpecHash": "alu00lQvOFg=",
   "success": true,
   "projectFilePath": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\TestLibrarySystem\\TestLibrarySystem.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\30085203\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
     "C:\\Users\\30085203\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\30085203\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\30085203\\.nuget\\packages\\microsoft.testplatform\\17.11.1\\microsoft.testplatform.17.11.1.nupkg.sha512",
     "C:\\Users\\30085203\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0\\microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
     "C:\\Users\\30085203\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
     "C:\\Users\\30085203\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
