@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A68F5F42-D355-43AF-B699-EDF73091D1CE}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\30085203\\documents\\localdev\\librarysystem\\librarysystem\\librarysystem\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A68F5F42-D355-43AF-B699-EDF73091D1CE}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A68F5F42-D355-43AF-B699-EDF73091D1CE}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\30085203\\documents\\localdev\\librarysystem\\librarysystem\\librarysystem\\models\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A68F5F42-D355-43AF-B699-EDF73091D1CE}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\models\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,12 +34,12 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\Models\\User.cs",
-              "RelativeDocumentMoniker": "LibrarySystem\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\Models\\User.cs",
-              "RelativeToolTip": "LibrarySystem\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\models\\User.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\models\\User.cs",
+              "ToolTip": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\models\\User.cs",
+              "RelativeToolTip": "LibrarySystem\\models\\User.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T01:57:15.402Z",
@@ -51,46 +47,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "LibrarySystem\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\Models\\Book.cs",
-              "RelativeToolTip": "LibrarySystem\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\models\\Book.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\models\\Book.cs",
+              "ToolTip": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\models\\Book.cs",
+              "RelativeToolTip": "LibrarySystem\\models\\Book.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA8wB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T01:56:53.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T01:56:53.688Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LibraryTests.cs",
-              "DocumentMoniker": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\LibraryTests.cs",
-              "RelativeDocumentMoniker": "LibrarySystem\\LibraryTests.cs",
-              "ToolTip": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\LibraryTests.cs",
-              "RelativeToolTip": "LibrarySystem\\LibraryTests.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAkwFsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T01:47:10.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "LibraryManager.cs",
-              "DocumentMoniker": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\Models\\LibraryManager.cs",
-              "RelativeDocumentMoniker": "LibrarySystem\\Models\\LibraryManager.cs",
-              "ToolTip": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\Models\\LibraryManager.cs",
-              "RelativeToolTip": "LibrarySystem\\Models\\LibraryManager.cs",
+              "DocumentMoniker": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\models\\LibraryManager.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\models\\LibraryManager.cs",
+              "ToolTip": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\models\\LibraryManager.cs",
+              "RelativeToolTip": "LibrarySystem\\models\\LibraryManager.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T02:12:48.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T02:12:48.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\MainWindow.xaml",
               "RelativeDocumentMoniker": "LibrarySystem\\MainWindow.xaml",
@@ -102,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\30085203\\Documents\\localDev\\LibrarySystem\\LibrarySystem\\LibrarySystem\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LibrarySystem\\MainWindow.xaml.cs",
@@ -110,8 +91,7 @@
               "RelativeToolTip": "LibrarySystem\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T02:04:58.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T02:04:58.034Z"
             }
           ]
         }
