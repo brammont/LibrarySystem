@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibrarySystem.Models
 {
-    class User
+    public class User 
     {
         public string Name { get; set; }
         public string Email { get; set; }
@@ -28,5 +28,16 @@ namespace LibrarySystem.Models
         {
             return $"{Name},{Email},{string.Join(";", BorrowedBooks.Select(b => b.Title))}";
         }
+        public bool BorrowBook(Book book)
+        {
+            if (CanBorrow() && book.IsAvailable())
+            {
+                book.Status = "Borrowed";
+                BorrowedBooks.Add(book);
+                return true;
+            }
+            return false;
+        }
+
     }
 }

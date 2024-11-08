@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibrarySystem.Models
 {
-    class Book
+    public class Book
     {
         public string Title { get; set; }
         public string Author { get; set; }
@@ -20,7 +20,10 @@ namespace LibrarySystem.Models
             AvailableCopies = availableCopies;
             Status = status;
         }
-
+        public bool IsAvailable()
+        {
+            return Status == "Available" && AvailableCopies > 0;
+        }
         public override string ToString()
         {
             return $"{Title},{Author},{AvailableCopies},{Status}";
