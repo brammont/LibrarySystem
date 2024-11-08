@@ -12,8 +12,8 @@ namespace LibrarySystem.Models
     {
         private string booksFile = "books.csv";
         private string usersFile = "users.csv";
-        public List<Book> Books { get; private set; }
-        public List<User> Users { get; private set; }
+        public List<Book> Books { get; set; }
+        public List<User> Users { get; set; }
 
         public LibraryManager()
         {
